@@ -1,0 +1,1 @@
+print("hello 2 from test2.py");
